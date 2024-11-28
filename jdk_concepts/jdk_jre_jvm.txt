@@ -1,3 +1,3 @@
-Intially Java is invented by James Gosling at Micro Systems.
+Intially, Java is invented by James Gosling at Micro Systems.
 But they are 3 persons intailly java is developed my the OAK but later it converted into java.
-Later, micro systems is adapted by oracle in early 1990.
+Later, Micro systems is adapted by oracle in early 1990.
