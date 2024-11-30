@@ -1,4 +1,7 @@
 Intially, Java is invented by James Gosling at Micro Systems.
 But they are 3 persons intailly java is developed my the OAK but later it converted into java.
 Later, Micro systems is adapted by oracle in early 1990.
+Java language having various features like platform independent,high sequrity,scalability ,various collections for tools and code efficient.
 In Java Development Kit have combination of JVM,Jar files,just in time complier and development tools.
+Now,Let us start with compling process in java first, the java is converts the code into byte code using java complier and then byte code is converted to machine code using various platformm jvms.
+The fun fact is the jvm is platform dependent but the byte code is platform independent.
