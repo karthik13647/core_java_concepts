@@ -8,3 +8,4 @@ The fun fact is the jvm is platform dependent but the byte code is platform inde
 Just In Time complier is the complier which is helps the jvm during the same sequence of pattern code is repeated its time taking process to process the same patterned code repeated by the jvm. 
 So,jvm takes the pattern and it process the pattern repeatedly.
 Finally, JIT complier increases the code execution and decrease the time of execution of a program. 
+In JDK, we having the jar files it having the jar component having the full pack of  classes which was created
