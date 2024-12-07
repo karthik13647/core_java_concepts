@@ -6,6 +6,7 @@ Java language having various features like platform independent,high sequrity,sc
 In Java Development Kit have combination of JVM,Jar files,just in time complier and development tools.
 Now,Let us start with compling process in java first, the java is converts the program into byte code using java complier and then byte code is converted to machine code using various platform jvms. The magic of byte code is platform independent and it converted into .class file. 
 The fun fact is the jvm is platform dependent but the byte code is platform independent.
+
 Just In Time complier is the complier which is helps the jvm during the same sequence of pattern code is repeated its time taking process to process the same patterned code repeated by the jvm. 
 So,jvm takes the pattern and it process the pattern repeatedly.
 Finally, JIT complier increases the code execution and decrease the time of execution of a program. 
