@@ -14,3 +14,4 @@ In JDK, we having the jar files it having the jar component having the full pack
 
 JVM is converts the byte code into machine code which makes the java code as the independent through out the any platform.
 But JVM is platform dependent in nature it only helps the code to convertion. The  credit all goes to the byte code which is platform independent.
+
